@@ -465,7 +465,7 @@ Free & open-source.
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **30% OFF** Lifetime Updates. Pay once. | 2025-12-04 |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime. Starts Nov 28 | 2025-12-03 |
 | 🧿 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF Lifetime** ($10 → $5) | 2025-12-07 |
-
+| 📋 | [IndieMarkdowns](https://indiemarkdowns.com) | Free tracker of Black Friday deals on 465 indie Mac & iOS apps, with maker-confirmed 2026 offers. | Free, no discount | 2026-12-05 |
 
 [⬆️ All categories](#table-of-contents)
 
